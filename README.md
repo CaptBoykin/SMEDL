@@ -1,5 +1,5 @@
 # SMEDL
-_SM_urf using _E_mail _D_istribution _L_ists
+*SM*urf using *E*mail *D*istribution *L*ists
 
 
 SMEDL is an attempt to merry concepts from a Smurf attack with the endstate of creating a DoS condition in a mailbox, utilizing valid email distribution lists in order to circumvent spam filters.
